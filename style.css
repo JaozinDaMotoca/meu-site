@@ -36,3 +36,23 @@ body{
    flex: wrap;
    
 }
+
+.moments{
+    color: darkkhaki;
+    text-align: center;
+    font-size: 20px;
+}
+
+.imgmoments{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex: wrap;
+}
+
+.imgmoments img{
+    height: 300px;
+    width: 350px;
+    border-radius: 50px;
+    object-fit: cover;
+}

@@ -56,3 +56,19 @@ body{
     border-radius: 50px;
     object-fit: cover;
 }
+
+.musicas{
+    color: darkkhaki;
+    text-align: center;
+   padding-top: 30px;
+}
+
+.iframe{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex: wrap;
+    gap: 50px;
+    padding: 30px;
+    
+}
